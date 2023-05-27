@@ -3,18 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojith-mapakshi&label=Profile%20views&color=0e75b6&style=flat" alt="poojith-mapakshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojith-mapakshi" alt="poojith-mapakshi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PoojithMapakshi" target="blank"><img src="https://img.shields.io/twitter/follow/poojithmapakshi?logo=twitter&style=for-the-badge" alt="poojithmapakshi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/poojithmapakshi" target="blank"><img src="https://img.shields.io/twitter/follow/poojithmapakshi?logo=twitter&style=for-the-badge" alt="poojithmapakshi" /></a> </p>
+-  I’m currently learning **AI , Machine Learning and Data science**
 
-- 🌱 I’m currently learning **AI , Machine Learning and Data science**
+-  Ask me about **Data Structures , Full Stack Devolopment**
 
-- 💬 Ask me about **Data Structures , Full Stack Devolopment**
+-  Reach me at **poojithmapakshi@gmail.com**
 
-- 📫 Reach me at **poojithmapakshi@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/12BwErkm4hkAhkAAUnFDatMSdG85yqPQS/view?usp=sharing](https://drive.google.com/file/d/12BwErkm4hkAhkAAUnFDatMSdG85yqPQS/view?usp=sharing)
-
+-  Know about my experiences [https://drive.google.com/file/d/12BwErkm4hkAhkAAUnFDatMSdG85yqPQS/view?usp=sharing](https://drive.google.com/file/d/12BwErkm4hkAhkAAUnFDatMSdG85yqPQS/view?usp=sharing)
+<p align="left"> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/poojithmapakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poojithmapakshi" height="30" width="40" /></a>
